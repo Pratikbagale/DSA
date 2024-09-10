@@ -12,6 +12,6 @@ int main()
 
     int sum = amount1 + amount2;
     cout << sum;
-
+//..
     return 0;
 }
