@@ -18,5 +18,6 @@ int main(){
     } else {
         cout << "Miku\n";
     }
+//
     return 0;
 }
